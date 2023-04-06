@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\bin\Debug\net6.0\Task 1.exe
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\bin\Debug\net6.0\Task 1.deps.json
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\bin\Debug\net6.0\Task 1.dll
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\bin\Debug\net6.0\Task 1.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.dll
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\refint\Task 1.dll
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 1\obj\Debug\net6.0\ref\Task 1.dll

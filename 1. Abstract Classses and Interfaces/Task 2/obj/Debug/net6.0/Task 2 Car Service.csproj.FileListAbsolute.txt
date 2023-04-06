@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 2\obj\Debug\net6.0\Task 2 Car Service.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 2\obj\Debug\net6.0\Task 2 Car Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 2\obj\Debug\net6.0\Task 2 Car Service.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 2\obj\Debug\net6.0\Task 2 Car Service.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SEAVUS\C# Advanced\Csharp-Adv-Homeworks\1. Abstract Classses and Interfaces\Task 2\obj\Debug\net6.0\Task 2 Car Service.csproj.CoreCompileInputs.cache
