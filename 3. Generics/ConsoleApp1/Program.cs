@@ -1,10 +1,10 @@
-﻿//###Homework Generics
-//Crate a car dealership app. Make a BaseEntity abstract class with properties Id, Brand, Model, MaxSpeed, HorsePower, FuelType and a abstract method Drive(string destinationName).
-//Create other classes for JapaneseCar, GermanCar, FrenchCar, ItalianCar, AmericanCar that will inherit from the BaseEntity.
-//Make a generic database named GenericDb that will only take in classes that INHERIT FROM THE BaseEntity.
+﻿////###Homework Generics
+////Crate a car dealership app. Make a BaseEntity abstract class with properties Id, Brand, Model, MaxSpeed, HorsePower, FuelType and a abstract method Drive(string destinationName).
+////Create other classes for JapaneseCar, GermanCar, FrenchCar, ItalianCar, AmericanCar that will inherit from the BaseEntity.
+////Make a generic database named GenericDb that will only take in classes that INHERIT FROM THE BaseEntity.
 
-//In the generic database create methods for Inserting a car, Get a car by id, Print all cars.
-//Create an extension method that will change the color of a text, just like we learned in class.
+////In the generic database create methods for Inserting a car, Get a car by id, Print all cars.
+////Create an extension method that will change the color of a text, just like we learned in class.
 
 
 using ConsoleApp1.DataBase;
@@ -95,6 +95,8 @@ while (true)
         MaxSpeed = maxSpeedInput
     });
 
+    Console.WriteLine($"The Car {brandInput} {modelInput} was added to the car list");
+
     Console.WriteLine("If you want to exit press X, if you want to continue press enter");
     string exitOrContinue = Console.ReadLine();
 
@@ -105,3 +107,7 @@ while (true)
         break;
     }
 }
+
+
+string text = "Hello World";
+text.ChangeColorOfText(ConsoleColor.Green);
