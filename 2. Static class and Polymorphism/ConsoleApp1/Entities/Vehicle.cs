@@ -22,5 +22,4 @@
     }
 }
 
-//Class Vehicle has method PrintVehicle that prints Id, Type and YearOfProduction.
 
